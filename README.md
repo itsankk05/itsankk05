@@ -4,7 +4,7 @@
 - 🔭 I’m currently an Undergrad at SRM Institute Of Science and Technology 
 - 🌱 I’m currently learning Web-Development
 - 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking an Internship
+- 🤔 I’m looking for an Internship
   
 - 📫 How to reach me: av5602@srmist.edu.in
   
