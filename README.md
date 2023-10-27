@@ -14,7 +14,7 @@
 
   ## My s(KILLS)👉
 
-   <a href="python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" align="left" height=50px style="padding-right:10px;"/></a>
+   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" align="left" height=50px style="padding-right:10px;"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" align="left" height=50px style="padding-right:10px;" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
