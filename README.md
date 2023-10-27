@@ -14,10 +14,10 @@
 
   ## My s(KILLS)👉
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" align="left" height=50px style="padding-right:10px;"/>
+   <a href="python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" align="left" height=50px style="padding-right:10px;"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" align="left" height=50px style="padding-right:10px;" width="30px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/>  
