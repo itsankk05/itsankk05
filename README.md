@@ -20,7 +20,7 @@
   <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
   <a href="https://www.w3schools.com/js/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
-  <a href="https://nodejs.org/en"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>  
+  <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>  
   <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" align="left" height=50px style="padding-right:10px;" width="50px"/></a>
