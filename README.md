@@ -8,7 +8,7 @@
   
 - 📫 How to reach me: av5602@srmist.edu.in
   
-    My Resume- https://drive.google.com/file/d/1pisyULJ7DzzqfV-RRF23cq-IK-uYQDeo/view?usp=sharing
+    My Resume- https://drive.google.com/file/d/1i-oF88sQoeoELL9_kz0Gz_1tElrtCF6L/view?usp=sharing
 
     Linkdin- https://linkedin.com/in/ankagarwal05
 
